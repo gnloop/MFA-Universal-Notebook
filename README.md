@@ -51,6 +51,14 @@ For instance, as shown in the image below, you'd use 'spanish\_mfa' for the Span
 
 ![image](https://github.com/user-attachments/assets/1a5ebdfa-6907-4ed7-be21-71d54318a08d)
 
+**3.5. (Optional) Generating a custom dictionary with G2P Models**
+
+If the dictionary provided by MFA does not have certain words (common in languages such as Japanese and Spanish), you can generate a custom dictionary from a G2P model!
+
+For instance, as shown in the image below, you'd use 'spanish\_spain\_mfa' for the Spanish (with the phonemic difference of Spain) G2P model:
+
+![image](https://github.com/user-attachments/assets/7c76ed8b-25a9-4ca5-8305-746a2fff51a4)
+
 **4. Converting TextGrid to HTK Labels**
 
 Next, you'll need to convert the TextGrid files (which MFA outputs) into monophonic HTK `.lab` files that DiffSinger can use. Follow the steps in the notebook, but be mindful of the converter you choose.
@@ -99,7 +107,6 @@ Here are a few things to keep in mind:
 *   It really struggles with long silences, long notes and humming.
 *   It's really dependent on Whisper's performance as well, which isn't always perfect: if you want a better base it's highly recommended to edit the transcriptions!
 *   The pretrained dictionaries for MFA are often lackluster and/or inaccurate when transposed to singing, which affects the label quality (I've particularly noticed this with French).
-*   It's possible to supplement the dictionaries with G2P models, but I haven't implemented that.
 
 ## Advantages Over SOFA
 

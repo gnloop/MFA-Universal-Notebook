@@ -15,7 +15,7 @@ u̯,U
 β,B
 ɣ,G
 ð̞,D
-ð,d
+ð,D
 ʒ,zh
 z,z
 ʋ,v
@@ -36,10 +36,10 @@ k,k
 t,t
 t̪,t
 t͡ʃ,tS
-d͡ʒ,jh
+d͡ʒ,j
 m,m
 n,n
-ŋ,gn
+ŋ,n
 ɲ,nJ
 ɾ,4
 r,rr

@@ -4,7 +4,7 @@
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
 |a|a|a|Alto [**a** l t o]|
-|e|e|e|Eppure [**e** p u r e]|
+|e|e|e|Eppure [**e** p p u r e]|
 |i|i|i|Bici [b **i** ch **i**]|
 |o|o|o|Come [k **o** m e]|
 |u|u|u|Uno [**u** n o]|
@@ -73,3 +73,5 @@
 |AP|Aspiration/Breath|
 |SP|Silence|
 |xxx|Trash|
+
+To be noted: Double consonants indicate gemination

@@ -4,7 +4,7 @@
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
 |a|a|a|Alto [**a** l t o]|
-|e|e|e|Eppurre [**e** p u r e]|
+|e|e|e|Eppure [**e** p u r e]|
 |i|i|i|Bici [b **i** ch **i**]|
 |o|o|o|Come [k **o** m e]|
 |u|u|u|Uno [**u** n o]|
@@ -14,7 +14,7 @@
 ## Semivowels
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|w|w|w|Uovo [**w** o v o]|
+|w|w|w|Uovo [**w** oo v o]|
 |y|j|j|Caio [K a **y** o]|
 
 
@@ -22,16 +22,16 @@
 ### Fricative 
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|f|f|f|Farfalla [**f** a r f a l a]|
-|v|v|v|Viola [**v** i o l a]|
+|f|f|f|Farfalla [**f** a r f a l l a]|
+|v|v|v|Viola [**v** y o l a]|
 |s|s|s|Sale [**s** a l e]|
 |z|z|z|Caso [k a **z** o]|
-|sh|S|ʃ|Esci [e **sh** i]|
+|sh|S|ʃ|Esci [ee **sh** i]|
 
 ### Oclusive
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|b|b|b|Basso [**b** a s o]|
+|b|b|b|Basso [**b** a s s o]|
 |g|g|g|Guardia [**g** w a r d y a]|
 |d|d|d|Dado [**d** a **d** o]|
 |p|p|p|Papà [**p** a **p** a]|
@@ -41,15 +41,15 @@
 ### Affricative
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|ts|t_s|t͡s|Cozza [k o **ts** a]|
+|ts|t_s|t͡s|Cozza [k o **ts** **ts** a]|
 |dz|d_z|d͡z|Azoto [a **dz** o t o]|
-|ch|tS|t͡ʃ|Ciao [**ch** y a o]|
-|j|dZ|d͡ʒ|Giorno [**j** y o r n o]|
+|ch|tS|t͡ʃ|Ciao [**ch** a o]|
+|j|dZ|d͡ʒ|Giorno [**j** o r n o]|
 
 ### Nasal
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|m|m|m|Mamma [**m** a **m** a]|
+|m|m|m|Mamma [**m** a **m** **m** a]|
 |n|n|n|Nano [**n** a **n** o]|
 |gn|J|ɲ|Pegno [p e **gn** o]|
 
@@ -57,7 +57,7 @@
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
 |l|l|l|Gola [g o **l** a]|
-|gl|L|ʎ|Foglia [f oo **gl** y a]|
+|gl|L|ʎ|Foglia [f oo **gl** a]|
 
 ### Trill
 | DS_ita | x-sampa | IPA | Example |

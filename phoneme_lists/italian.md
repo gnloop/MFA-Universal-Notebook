@@ -23,7 +23,7 @@
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
 |f|f|f|Farfalla [**f** a r f a l l a]|
-|v|v|v|Viola [**v** y o l a]|
+|v|v|v|Viola [**v** y oo l a]|
 |s|s|s|Sale [**s** a l e]|
 |z|z|z|Caso [k a **z** o]|
 |sh|S|ʃ|Esci [ee **sh** i]|

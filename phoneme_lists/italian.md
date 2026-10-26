@@ -41,8 +41,8 @@
 ### Affricative
 | DS_ita | x-sampa | IPA | Example |
 |--|--|--|--|
-|ts|t_s|t͡s|Cozza [k o **ts** **ts** a]|
-|dz|d_z|d͡z|Azoto [a **dz** o t o]|
+|ts|t_s|t͡s|Cozza [k oo **ts** **ts** a]|
+|dz|d_z|d͡z|Azoto [a **dz** oo t o]|
 |ch|tS|t͡ʃ|Ciao [**ch** a o]|
 |j|dZ|d͡ʒ|Giorno [**j** o r n o]|
 
